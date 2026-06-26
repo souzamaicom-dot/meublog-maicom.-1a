@@ -1,0 +1,11 @@
+.cabecalho{
+    background-color: black;
+color: yellow;
+text-align: center;
+margin:0 auto;
+max-width: 800px;
+}
+.principal{
+    background-color: yellow;
+color:black;
+}
